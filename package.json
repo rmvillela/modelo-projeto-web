@@ -1,0 +1,26 @@
+{
+  "name": "modelo-projeto-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "link para o github, bitbucket etc"
+  },
+  "author": "nome do autor",
+  "license": "ISC",
+  "bugs": {
+    "url": "link para o github, bitbucket etc +issues"
+  },
+  "homepage": "link para o github, bitbucket etc +#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta"
+  }
+}
